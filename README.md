@@ -1,4 +1,4 @@
-# Actimi Club App ![Alt Text](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+# Actimi Club App ![Alt Text](https://img.shields.io/static/v1?label=By Rishabh&message=<MESSAGE>&color=blueviolet)
 
 
 This webapp is created for Actimi Sağlık Ar&Ge. 
