@@ -66,6 +66,6 @@ npm start
 ## Comments
 
 * Please make sure that mongodb is running before staring node server.js
-* Node server is listening to port 2000. After node is connected to Mongodb this meesage will be loged - "Mongodb connected! Server is Runing On port 2000"
+* Node server is listening to port 2000. After node is connected to Mongodb this meesage will be logged - "Mongodb connected! Server is Runing On port 2000"
 * Please make sure node server.js is running before starting the react server.
 * React will run on default port http://localhost:3000.
