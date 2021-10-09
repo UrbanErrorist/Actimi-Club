@@ -10,7 +10,8 @@ Installation of node and npm and mongodb is required to run this project
 
 * Start MongoDB server 
 
-```bash Mongod ``` 
+```bash 
+Mongod ``` 
 
 * Install the dependencies 
 
