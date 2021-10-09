@@ -50,7 +50,7 @@ export default class Login extends React.Component {
         <h1>Actimi Club <br/> </h1> <h3>Log in</h3>
         <div className="auth-input">
            <label for="email">
-           Username
+           E-Mail
            </label>
            <TextField
             style = {{width: "100%"}}
@@ -63,7 +63,7 @@ export default class Login extends React.Component {
             placeholder="User Name"
             required
           />
-          
+           <p className="auth-error">E-Mail is a required field.</p>
         </div>
         <div className="auth-input">
           <label for="password">
