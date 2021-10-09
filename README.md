@@ -4,6 +4,13 @@ This webapp is created for Actimi Sağlık Ar&Ge.
 
 The Frontend of the app is created using React.js and backend of the app is developed using mongoDB, Nodejs, Express.js, and mongoose. 
 
+
+## ScreenShots
+ 
+![Alt Text](./actimi.gif)
+
+
+
 ## Installation 
 
 Installation of node and npm and mongodb is required to run this project 
@@ -51,10 +58,6 @@ npm start
 * API provides services like add, delete, edit club members to users. 
 * Pagination API is used to list the club members. 
 * JWT token authentication was used.
-
-## ScreenShots
- 
-![Alt Text](./actimi.gif)
 
 
 ## Comments
