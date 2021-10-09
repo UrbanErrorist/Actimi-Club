@@ -18,7 +18,7 @@ mongod
 
 ```bash 
 git clone https://github.com/UrbanErrorist/Actimi-Club.git
-cd actimi-club 
+cd Actimi-Club
 cd backend 
 npm install 
 cd .. 
