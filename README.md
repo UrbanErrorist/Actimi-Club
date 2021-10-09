@@ -4,6 +4,7 @@
 This webapp is created for Actimi Sağlık Ar&Ge. 
 
 The Frontend of the app is created using React.js and backend of the app is developed using mongoDB, Nodejs, Express.js, and mongoose. 
+
  ![Alt Text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Alt Text](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)  ![Alt Text](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Alt Text](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## ScreenShots
