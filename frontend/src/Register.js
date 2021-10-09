@@ -49,7 +49,7 @@ export default class Register extends React.Component {
         <h3>Register</h3>
         <div className="auth-input">
            <label for="email">
-           E-Mail
+           Username
            </label>
            <TextField
             style = {{width: "100%"}}
