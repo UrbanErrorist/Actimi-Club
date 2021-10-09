@@ -1,4 +1,5 @@
-# Actimi Club App 
+# Actimi Club App ![Alt Text](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+
 
 This webapp is created for Actimi Sağlık Ar&Ge. 
 
@@ -15,7 +16,7 @@ The Frontend of the app is created using React.js and backend of the app is deve
 
 Installation of node and npm and mongodb is required to run this project 
 
-* Start MongoDB server  ![Alt Text](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+* Start MongoDB server  
 
 ```bash 
 mongod 
