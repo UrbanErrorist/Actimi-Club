@@ -55,3 +55,9 @@ npm start
 ## ScreenShots
  
 ![Alt Text](./actimi.gif)
+
+
+## Comments
+
+* Please make sure that mongodb is running before staring node server.js
+* Please make use node server.js is running before starting the react server.
