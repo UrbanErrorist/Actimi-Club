@@ -17,7 +17,7 @@ mongod
 * Install the dependencies 
 
 ```bash 
-clone https://github.com/UrbanErrorist/Actimi-Club.git
+git clone https://github.com/UrbanErrorist/Actimi-Club.git
 cd actimi-club 
 cd backend 
 npm install 
