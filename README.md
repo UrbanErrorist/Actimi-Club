@@ -49,6 +49,7 @@ npm start
 
 * Ability to register and login users.
 * After logging in, the manager can add, edit and delete the club members. 
+* There is aditional feature of profile pic added to the project. Each member will have a profile picture.
 * User can search club members by name. 
 * Axios was used to create HTTP calls. 
 
