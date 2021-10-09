@@ -1,4 +1,4 @@
-# Actimi Club App ![Alt Text](https://img.shields.io/badge/<hello>-<world>-<blue>)
+# Actimi Club App ![Alt Text](https://img.shields.io/badge/By-Rishabh-blueviolet)
 
 
 This webapp is created for Actimi Sağlık Ar&Ge. 
